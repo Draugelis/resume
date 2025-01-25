@@ -1,10 +1,10 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
-favicon: "/assets/favicon.ico"
+title: Viktoras Draugelis
+description: My resume
+favicon: /assets/favicon.ico
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://resume.draugelis.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://resume.draugelis.dev # the base hostname & protocol for your site, e.g. http://example.com
 
 # Color reference: https://tailwindcss.com/docs/colors
 style:

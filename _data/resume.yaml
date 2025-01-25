@@ -58,8 +58,7 @@ sections:
             • Python <br>
             • Shell <br>
             • Terraform HCL <br>
-            • Go <br>
-            • Javascript
+            • Go
         - title: CI/CD
           icon: fas fa-gear
           description: |

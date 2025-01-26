@@ -7,7 +7,7 @@ description: |
   scalable, and cost-effective cloud environments.
 
 avatar:
-  enabled: true
+  enabled: false
   src: /assets/avatar.png
 
 email: viktoras@draugelis.dev
@@ -47,7 +47,7 @@ sections:
             • Automated support workflows using the public API. <br>
             • Led the integration certification process based on company guidelines. <br>
             • Collaborated with product, QA, and development teams on API issues.
-          date: 'Feb 2023 - Present'
+          date: 'Nov 2020 - Feb 2023'
 
   - skills:
       icon: 'fas fa-cogs'

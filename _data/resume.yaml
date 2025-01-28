@@ -21,7 +21,7 @@ sections:
   - experience:
       icon: fas fa-briefcase
       content:
-        - title: Jr. Cloud Operations Engineer
+        - title: Cloud Operations Engineer
           subtitle: Revel Systems
           icon: fas fa-cloud
           description: |
